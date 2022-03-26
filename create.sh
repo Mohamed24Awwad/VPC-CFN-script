@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name myinfrademo --template-body file://infrastructure.yml --parameters file://params.json  --region=us-east-1
