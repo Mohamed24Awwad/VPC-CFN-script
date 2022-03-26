@@ -41,7 +41,10 @@ Feel Free to clone the app.
   https://github.com/Mohamed24Awwad/VPC-CFN-script.git
 
 ```
-    
+   
+## Author
+
+- [@MohamedAwwad](https://github.com/Mohamed24Awwad) 
 
 ## Instructions
 
@@ -57,9 +60,4 @@ Feel Free to clone the app.
 # Check the region in the update.sh file
 ./update.sh mySecStack servers.yml server-parameters.json
 
-
-
-## Author
-
-- [@MohamedAwwad](https://github.com/Mohamed24Awwad)
 
