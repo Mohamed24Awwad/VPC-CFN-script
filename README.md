@@ -43,11 +43,6 @@ Feel Free to clone the app.
 ```
     
 
-## Author
-
-- [@MohamedAwwad](https://github.com/Mohamed24Awwad)
-
-
 ## Instructions
 
 ### How to run the supporting material?
@@ -64,4 +59,7 @@ Feel Free to clone the app.
 
 
 
+## Author
+
+- [@MohamedAwwad](https://github.com/Mohamed24Awwad)
 
