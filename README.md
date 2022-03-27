@@ -48,7 +48,7 @@ Feel Free to clone the app.
 
 ## Instructions
 
-### How to run the supporting material?
+### How to run ?
 ######  You can run this script in two easy steps:
 ```bash
 # Ensure that the AWS CLI is configured before runniing the command below
